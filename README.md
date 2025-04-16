@@ -1,2 +1,3 @@
 # Wikipedia-Clone
-html ,css, javascript
+
+Wikipedia clone built with HTML, CSS, and JavaScript, replicating the layout and functionality of the online encyclopedia.
